@@ -17,9 +17,13 @@ Here are some ideas to get you started:
 
 
 
-I'm a web developer focusing on back-ends. <br/>
-I love to build things that solve problems. <br/>
-Learning new things give me dopamine hits.
+I'm a software engineer focusing on creating robust, scalable back-ends. <br/>
 
-I know following well
-- Node, Docker, React
+I love solving problems with code, 🔨 build stuff for both fun and learning. <br/>
+
+🌱 Learning new things give me dopamine hits 🧠. There are new things to learn everyday. <br/>
+Irony is more I learn things, the amount I do not know ramp up. Wish there was 1000 hours for a day. 😂<br/>
+
+Most of us have cause that drives us, since 16 🧒 mine was following
+
+> Help those who in need, so my life matters at the end. 
