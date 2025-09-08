@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-I'm a software engineer focusing on creating robust, scalable back-ends. <br/>
+Software engineer focused on creating robust, scalable back-ends. <br/>
 
 I love solving problems with code, 🔨 build stuff for both fun and learning. <br/>
 
